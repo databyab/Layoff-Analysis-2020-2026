@@ -1,0 +1,45 @@
+Layoff Analysis Summary (2020–2026)
+
+This project analyzes global tech layoffs from 2020 to 2026 to identify
+patterns across time, geography, industry, and company stage.
+
+Key Findings:
+
+1. Overall Trend
+- Layoffs show clear seasonality, with major spikes in January and late Q4.
+- These peaks align with budget resets, earnings cycles, and year-end cost cutting.
+- Mid-year months generally show lower layoff activity.
+
+2. Geography
+- The United States accounts for the highest number of layoffs, reflecting its
+  dominance in the global tech industry.
+- Countries with strong startup ecosystems, such as Israel and India, also show
+  notable layoff activity.
+- Layoffs outside the US are more frequent among smaller and early-stage firms.
+
+3. Industry Impact
+- Consumer, Retail, and Technology-related industries experienced the highest
+  total layoffs.
+- AI and Legal are among the least affected industries in terms of total job losses.
+
+4. Company Stage
+- Early-stage companies (Seed, Series A, Series B) exhibit the highest layoff
+  severity, often cutting a large percentage of their workforce.
+- Later-stage and Post-IPO companies contribute the largest absolute number of
+  layoffs but generally reduce a smaller share of employees.
+
+5. Severity vs Scale
+- Total layoffs measure the scale of job losses.
+- Percentage laid off captures company-level impact and risk.
+- Many early-stage companies recorded near-total or complete workforce reductions,
+  indicating shutdown events.
+
+6. Data Considerations
+- Missing values in layoff counts and percentages reflect non-disclosure by
+  companies rather than data quality issues.
+- Numeric values were not artificially filled to avoid misleading conclusions.
+
+Conclusion:
+Economic downturns affect companies unevenly. Large firms absorb shocks through
+large but proportional cuts, while smaller and early-stage companies face
+significantly higher risk of severe layoffs or closure.
